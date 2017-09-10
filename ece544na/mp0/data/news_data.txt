@@ -1,0 +1,200 @@
+000	Yields on CDs Fell in the Latest Week	3.0
+001	Currency Trading: Dollar Remains in Tight Ranges Amid Wait for U.S. Jobs Data	3.0
+002	Stocks Fall Again; BofA, Alcoa Slide	3.0
+003	U.S. Dollar Falls Against Most Currencies; Decline Is Softened as Bond Rally Stalls	4.0
+004	Defending Yourself Against Deflation	4.0
+005	Dollar Declines as Players Take Profits From Rally and After Fed Boosts Rates	3.0
+006	Tech Sector in Hiring Drive; Google, Intel Add Workers as Profits Snap Back; Start-Ups Also Fight for Talent	7.0
+007	Fed's Greenspan Refuses to Accept Blame for Recession; Upturn's Pace Is 'Glacial'	6.0
+008	Producer Prices Decreased 0.2% In November --- Drop Caused by 1.5% Fall For Energy and Decline Of 0.5% in Food Costs	6.0
+009	Consumer Credit Continued Surge In July, Fed Says --- But Increase of $7.11 Billion Was Smaller Than Rises In Previous Two Months	6.0
+010	Consumer Spending Rises a Bit; Incomes Climb Solidly, but Stronger Economic Growth Faces Headwinds	4.0
+011	Small-Scale Deficit Deal Increases Risk of U.S. Downgrade	3.0
+012	U.S. News: U.S. Watch	3.0
+013	New Job Data Cast Doubt on Economy's Slowing	6.0
+014	Dollar Jumps, Aided by Data	7.0
+015	Despite Rally, Worries Over Inflation Remain --- Economists Search For Better Indicators Than the Jobs Report	4.0
+016	Retailers Stock Up on Caution	4.0
+017	Some Stocks Had Big Fourth-Quarter Gains Despite a Plunge in Broad Market Averages	4.0
+018	Bond Prices Are Little Changed In Slow Trading As Investors Brace for January Employment Data	6.0
+019	U.S. News: Producer Prices Log Another Monthly Drop, Showing the Weakness in Global Demand	3.0
+020	Corporations' Orders to Buy Push Up Dollar --- An Early Slump Followed Yeutter Trade Remark; No Fed Action Is Seen	7.0
+021	How To Play Rising Rates; The Bond Boom Has Left Many Investors Vulnerable to a Surprise Jump in Interest Rates. Here's How to Protect Yourself--and Profit	2.0
+022	Tracking the Economy: Economists Follow February Job Data Upward and Boost Output Estimates	6.0
+023	New home sales rose 7.1% in May; Personal income and spending up 0.3%	8.0
+024	U.S. Merchandise Trade Gap Shrank During 1st Quarter	6.0
+025	Bernanke Faces Skepticism Over Policy	4.0
+026	Ahead of the Tape	3.0
+027	Use of stock-options contracts climbs as investors seek hedge	7.0
+028	Record Exports Cut Trade Gap For 1st Quarter --- Machine Sales Helped Slice Deficit to $35.95 Billion; Imports Also Set Mark	6.0
+029	The Afternoon Report: Reckoning Rates	7.0
+030	Bigger Bills: With Costs Rising, Companies Move To Increase Prices; Mix of Inflation, Slowdown Poses Challenge for Fed; Energy Takes Broad Toll; Dow Surges on GDP Figures	4.0
+031	The Keynesian Growth Discount; The results of our three-year economic experiment are in.	3.0
+032	Cisco and Charles River Soar; Hospira, Toll Brothers Stumble; Other Housing Firms Drop As Do Federated, Disney Amid Broad Economic Fears	3.0
+033	Economy Gives Social Security a Reprieve --- Latest Forecast Extends Trust Fund's Solvency By Three Years, to 2032	7.0
+034	Jobless Rate May Signal Slowing Growth --- January Rise to 5.7% Comes After Year-Long Drop; Fed Moves Seen as Key	3.0
+035	Consumer Prices Didn't Increase At All in January --- Situation Hasn't Occurred In Over Four Years; Inflation Is Seen Tamed	6.0
+036	Oracle Jumps 11% on Strong Growth; Circuit City Shares Ease, CarMax Hits All-Time High, Morgan Stanley Moves Up	8.0
+037	It's Time to Take Some Profits	5.0
+038	Business and Finance	4.0
+039	The Outlook -- After the Rise: The Market's Message	7.0
+040	Ahead of the Tape	3.0
+041	JDS Uniphase, Brocade Tumble As Rate Cut Reinforces Pessimism	3.0
+042	Pricing Power: Lost But Not Forgotten?	5.0
+043	Housing Starts Increased 2.4% During July --- Multifamily Units Pace Rise, But Sector Is Expected To Soften as Rates Climb	6.0
+044	Raise Interest Rates, Make Grandma Smile	7.0
+045	Pending Home Sales Slip in June; Housing Recovery Remains Choppy Despite Retreat in Interest Rates	4.0
+046	Wednesday's markets: Stocks mixed, bonds decline; Dollar improves	6.0
+047	Some economists warn that inflation may be back to haunt the economy	3.0
+048	As Costs Soar, Taxpayers Target Pensions of Cops and Firefighters	3.0
+049	Dow Erases Gains for the Year; Tumultuous Week Shatters Market Calm as Global Growth Fears Rattle Investors	4.0
+050	Bond Investors World-Wide Have Had Little to Cheer About So Far This Year	6.0
+051	Left Behind -- Casualties of a Changing Job Market --- Looking Longer: Why for Many This Recovery Feels More Like a Recession --- As Economy Expands Slowly, Payrolls Keep Shrinking; Downside of Productivity --- Terri Brooks's New Prospect	4.0
+052	Higher Bond Yields May Not Skewer Stocks; Some Traders See Long-Term Rates As Simply Returning to Normal In a Sign of a Strong Economy	7.0
+053	Budget deficit grew in the latest month to $40.26 billion	6.0
+054	The Economy: Productivity Gains Spark Optimism on Economy	6.0
+055	A Year of Living on the Brink	4.0
+056	Consumer Prices Slow Advance From January --- February's Increase of 0.5% Is More Modest, but Still Disturbs Some Analysts	4.0
+057	Gateway, Hewlett-Packard Rise Amid Enthusiasm for Tech Stocks	7.0
+058	Senate Committee Approves Extension Of Jobless Benefits	3.0
+059	Philadelphia Fed Survey Increases Growth Forecast	6.0
+060	Financials Stage a Comeback As Dow Banks 58.70 Points	7.0
+061	Stocks Edge Higher, Ignoring Bad News On Economy, Oil	3.0
+062	Business and Finance	7.0
+063	Though Bonds Began Weekend With Price Jump, Some Analysts Hold Cheers Until Next Fed Move	5.0
+064	Small Banks in U.S. Face Their Own Year-End Cliff	4.0
+065	Moving the Market -- MoneyBeat: Wall Street Speaks Up for Workers	6.0
+066	Abreast of the market: Industrials fell 11.35 to 3518.85 as poor economic performance data end rally	3.0
+067	Mortgage Rates Slide for a 7th Straight Week	3.0
+068	Ahead of the Tape	5.0
+069	Consumers Grow More Upbeat, Nudging Up Sales at Retailers	7.0
+070	Business and Finance	6.0
+071	Rating Firms To Hold Off Downgrades Of Big Banks	2.0
+072	`Dow 36,000' Gurus Hold to Their View Amid Downturn	3.0
+073	GE Posts Rise Of 8.6% in Net For 3rd Quarter --- Sales Show 9.2% Gain; Drop In Taxes Cited, but Firm Labels Results `Good'	4.0
+074	U.S. Jobless Claims Rose 11,000 Last Week; At Highest Level Since June, But Near Eight-Year Lows	3.0
+075	Stock Prices Advance on Strength In Bonds and Economic Optimism	7.0
+076	The Outlook: Will Money Keep Economy on the Rise?	6.0
+077	Retail Sales Fall 0.4%, Hurt by GM Strike --- Despite Auto-Sector Drop, Outlays by Consumers Stay at Healthy Level	3.0
+078	The Outlook: The Fed May Be Getting Into a Box	7.0
+079	Business and Finance	5.0
+080	Gold Tumbles 3.1%; Silver Drops 4.9%; Strong Jobs Data Fuel Fears Fed Will Taper Stimulus	6.0
+081	Leading Economic Indicators Show Rise In Sign Expansion Can Last to Year End	7.0
+082	Bond Prices Rise on Forecasts That Fed Will Push Rates Down to Spur Economy	4.0
+083	Dow Industrials Finish 1st Half With 7.7% Gain	6.0
+084	Stock Futures Close Higher	7.0
+085	Gold's Fate May Rest With Fed	5.0
+086	Bond Yields Plunge Amid Falling Rates World-Wide; Declines, Slack Investment By Business Fuel Concerns Over a Global Slowdown	4.0
+087	Fed Stays the Course on Bond Buying; Officials Leave Investors on Tenterhooks About When They Will Wind Down Program	6.0
+088	Dollar Declines In Face of Lower Interest Rates	2.0
+089	Ahead of the Tape	3.0
+090	Ahead of the Tape	4.0
+091	Personal Income Rose Strong 0.9% In September --- Consumer Spending Climbed 1.4%, Indicating Economy Is Likely to Keep Growing	6.0
+092	Currency Traders Face Bumpy Ride As Questions on Rates, EU Hit Market	2.0
+093	Longer-Dated Treasury Issues May Bear Brunt of a Rate Cut	8.0
+094	Small-Stock Indexes Lose Ground On Profit Warnings, Oil Prices	4.0
+095	Dollar Rises Against Yen Despite Data	7.0
+096	U.S. Jobless Claims Fall; Four-Week Moving Average at Lowest Level in 7 Years	7.0
+097	Economy Posts Higher Growth Than Estimated --- Fourth-Quarter GNP Rose At 4.9% Rate; Revision In Trade Deficit Cited	7.0
+098	U.S. budget defict widened in February	7.0
+099	Dollar Hits High Against French Franc, British Pound for Third Consecutive Day	7.0
+100	Bond Prices Decline On Mixed U.S. Data	5.0
+101	Financials Help Dow Tack on 74.96 Points	6.0
+102	Fed Chief Signals Rates Still to Rise; Greenspan Says Economy Has Left Soft Spot Behind, But Notes Housing Risk	5.0
+103	Consumer debt load is rising again despite a steady decline in confidence	3.0
+104	Job Figures Stayed Bleak in Latest Month; Fed Acts Again to Cut Rates, Aid Economy --- Interest on Federal Funds To Slip to 6%; Some See End to Policy of Easing	3.0
+105	Traders Exit High-Speed Lane --- Firms Reduce Use of Computer-Driven Strategies as Volatility and Volume Wane	2.0
+106	U.S. Stocks Slide	3.0
+107	Economic Optimism Lifts Euro	4.0
+108	Bond Prices Depressed by Dollar's Fall, Selling By Foreigners, but Short-Term Issues Post Gains	3.0
+109	Wal-Mart Increases Sales Forecast; Despite Blackout, Retailer May Post Biggest Gain In More Than a Year	7.0
+110	U.S. Trade Deficit Rose During May, Raising Concerns	3.0
+111	Dollar drops in wake of surge by yen; Clinton disputes Fed's chief on rates	4.0
+112	Treasury Bond Prices Slump With Fall In Dollar's Value and Rise in Oil Price	3.0
+113	Home Mortgage Rates Fall to 5.77% in Week	6.0
+114	Bond Prices Climb Due to Dollar's Gain And Outlook for Accord in Budget Talks	4.0
+115	Leading Indicators Fell Last Month; Decline is Fourth in a Row; Hurricanes, High Oil Prices Slowed Growth of Economy	4.0
+116	Fever Breaks for Facebook Shares	4.0
+117	Interest Rates Continue Their Decline Amid New Evidence of Slower Economy	4.0
+118	Industrials Surge 30.95 in Reaction to Drop in Rates, Strong Earnings	7.0
+119	Analysts Evaluate Stocks of Electric Utilities On Ability to Diversify, Compete With Rivals	3.0
+120	U.S. Housing Starts Fall by 9.9% In June; Building Permits Decline, Too, as Rising Mortgage Rates Pose Threat	6.0
+121	The Outlook: Recession May Be Trade Gap's Only Cure	7.0
+122	Toll Brothers Swings to Profit on Improved Sales	6.0
+123	U.S. Government Bonds Rise; Fresh Signs of Tame Inflation Bolster Investors' Confidence that Fed Isn't in Hurry to Raise Rates	6.0
+124	Basel Bank Official Warns on Stimulus Measures	4.0
+125	No Tapering Soon if the Fed Looks at Labor; A 6.5% unemployment target isn't the only concern. The employment rate matters too, and it's still looking anemic.	6.0
+126	U.S. News: Jobless Aid Shrinks Unevenly --- Benefit Cuts Hit Some Struggling States as Unemployment System Shows Strains	5.0
+127	Targeted Ways To Beat Inflation	5.0
+128	Worker Shortage Is Seen Continuing, Leading Recruiters to Step Up Efforts	4.0
+129	Business and Finance	7.0
+130	U.S. Economic Engine May Shift Lower Fast Business-Borrowing Rate Appears Troublesome	4.0
+131	Ahead of the Tape	6.0
+132	Exchange Seat Prices Show Steady Rise; Boom in Futures, Option Trading Cited	6.0
+133	Dollar Is Facing a Period of Volatility After Modest Comeback, Analysts Say	6.0
+134	The Deflation Battle: Fed Official Issues Call for Aggressive Action --- Chicago President Evans Proposes Raising Inflation Target Above 2% in Effort to Revive the Economy	4.0
+135	Investors Shed Stocks on Fears Of a Slowdown; Treasury Securities Favored Amid Unease; Dow Nears 'Correction'	3.0
+136	Business and Finance	6.0
+137	Exxon, Shell Profits Soar On Higher Oil Prices	7.0
+138	The Wall Street Journal / NBC News Poll --- A Special Weekly Report From The Wall Street Journal's Capital Bureau	6.0
+139	The Economy: Positive Economic Data Rain Down; Faster Growth Is Reported Across U.S. as Orders Rise And Job Picture Improves	8.0
+140	Economic Data Pose Inflation Problems; Fed Faces Showdown on Easing Credit --- Industrial Output Plunged 1.7% as Producer Prices Rose 0.5% in November	4.0
+141	Real-Time Data Suggest an Improving Economy	7.0
+142	U.S. Trade Gap Shrank Slightly during January	6.0
+143	Stocks Climb as Lawmakers Aim at a Deal	7.0
+144	Interest rates fall sharply; Stocks climb	7.0
+145	The Case of the Missing Workers	6.0
+146	Dollar Finishes Even on Its Rivals After Weak Consumer-View Data	3.0
+147	Interest Rates Depress Dollar; Gold Rises $3.10	5.0
+148	New York City Gets a Boost As Moody's Upgrades Debt	7.0
+149	Ahead of the Tape	3.0
+150	Fears of Stagflation Return As Price Increases Gain Pace; Fed Cuts Outlook For Economic Growth Amid Credit Crunch	3.0
+151	Blue Chips Avoid Retreat After Monday Gain	3.0
+152	Small-Stock Focus: Two New Internet IPOs Post Moderate Gains; Markets Shake Off Jitters Over Rubin Resignation	6.0
+153	Fun in Sun Is Back for Top Brokers	8.0
+154	Jobless Total Greatly Exceeds Prior Estimates --- Survey Change Shows Level Of Unemployed People Is About 600,000 Higher	3.0
+155	Year-End Review of Bond Markets: Junk-Bond Defaults Expected to Multiply ---- Staff Reporter of The Wall Street Journal By Constance Mitchell	4.0
+156	Politics & Economics: Economists Cut GDP Outlook As Oil Prices Remain a Concern	4.0
+157	DJIA Opens the Quarter With a Win	7.0
+158	U.S. News: Fed's Kohn Says Recovery Possible in '09	5.0
+159	U.S. Budget Deficit For '95 Projected To Decline by CBO	3.0
+160	Treasury Prices Fall as Investors React to Solid Economic Data	7.0
+161	The First 10,000 Points -- Heard on the Street: Bulls Say a Heated Market Could Get Even Warmer	7.0
+162	Futures Markets: Dollar's Plunge Ignites Rallies in Gold, Stock-Index, Foreign-Currency Contracts --- A Wall Street Journal News Roundup	7.0
+163	Business and Finance	5.0
+164	Has the Bull Just Been Sleeping?	7.0
+165	New T-Bill Rates Fall to Lowest Level Since Late 1988	8.0
+166	Economists Say Recession Is Ending with a Whimper	7.0
+167	Stocks Fall As Investors Take Profits	2.0
+168	What Big Economies Got Right, or Wrong, After Crisis; Why the U.S. and U.K. Have Fared Better Than Japan and Europe	6.0
+169	HCL Technologies Expects Deal Wins to Boost U.S. Sales	7.0
+170	Recovery at Philips Electronics Stalls Amid Crises, U.S. Setback	7.0
+171	Bond Rally Lifts Stocks To Records --- Yield Drops to 6.322% On U.S. 30-Year Issue, Delighting Investors	3.0
+172	Low Inflation Tests World's Central Banks --- Subdued Prices Persist Despite Years Of Easy Money; Deflation Still a Threat	5.0
+173	Bond Investors Fear That Federal Reserve Moves To Lift Economy Hurt Treasurys in Long Term	5.0
+174	Stocks Fall on Disappointing Earnings, Confidence Report	3.0
+175	U.S. News: Food Stamps Surge in West --- Sharp Rise Since Bottom Fell Out of Region's Boom Clashes With Go-It-Alone Ethos	3.0
+176	Heard on the street: Some analysts are still bearish on bank stocks even though they may seem to be enticing	3.0
+177	Business and Finance	5.0
+178	As Food Prices Rise, Fed Keeps a Watchful Eye; Central Bank Officials Sometimes Look Past Food-Cost Increases	4.0
+179	Producer Prices Jumped 1% in July; Energy and Car Costs Soar, But Economists Fail to See Signals of Broad Inflation	4.0
+180	Dollar Shoots Higher after Official Comments on Falling German Rates	7.0
+181	Crude Plunges Under $96	3.0
+182	Blue-Chip Stock Prices Rebound To Close Higher, but Others Fall	6.0
+183	Most Rates Edge Higher on Nervousness That Fed May Tighten Credit Grip Soon	7.0
+184	Employment Eased in October After Two Gains --- Report Indicates Recovery Is Faltering; Forecasting Gauge Fell in September	3.0
+185	Key Inflation Gauge Is Revised Upward, Despite More Signs Economy Is Cooling	5.0
+186	US Jobless Claims Disappoint	4.0
+187	Bonds Slip in Light Session, but Analysts Expect Higher Prices in Coming Months	4.0
+188	Ford Planning $1 Billion Sale Of Preferred --- Move Surprises Wall Street; Firm May Post Losses For 3rd and 4th Quarters	3.0
+189	Global Woes Are Expected To Slow Region's Growth	6.0
+190	Business and Finance	7.0
+191	Calendar Lends a Hand in Cutting August Deficit	4.0
+192	Growth-Stock Investors Stand Pat despite Recent Surge for Cyclicals	7.0
+193	Venture Capital Forced to Perform Triage	3.0
+194	Office Vacancies Declined Last Year For First Time in 6 Years, Survey Says	5.0
+195	Fund Managers Beat S&P 500 in August	8.0
+196	Business and Finance	5.0
+197	Federal Reserve Again Relaxes Its Credit Grip --- Move Comes Just 2 Weeks After Previous Easing; Rate May Drop to 8 1/4%	3.0
+198	BofA and Caterpillar Both Fall More Than 3%	4.0
+199	Lehman's Property Bets Are Coming Back to Bite; Dow's Modest Gain Masks Big Declines In Financial Stocks	3.0
